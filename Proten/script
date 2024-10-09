@@ -1,0 +1,10 @@
+config load "C:\Users\Lenovo\Desktop\RMX\FRA231-Robotics-Modelling-and-Experimentation-2024-main\FRA231-Robotics-Modelling-and-Experimentation-2024-main\Proten\Proten.ioc"
+project toolchain STM32CubeIDE
+
+SetStructure Advanced
+
+project setCustomFWPath "C:\Users\Lenovo\AppData\Local\Programs\STM32CubeMX\STM32Cube_FW_G4_V1.5.0"
+
+project generate 
+
+exit wait
