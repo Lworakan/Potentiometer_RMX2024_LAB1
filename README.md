@@ -30,11 +30,11 @@ The experiment setup includes:
    - This graph shows the relationship between RMS voltage and distance when no magnetic shielding is applied.
 
 2. **No Shield - Magnetic Field Strength vs RMS**: 
-   ![No Shield - Magnetic Field Strength](./Noshieldmak_Magnetic Field Strength B vs RMS.png)
+   ![No Shield - Magnetic Field Strength](./labmaxne/Noshieldmak_Magnetic_Field_Strength.png)
    - This graph represents the relationship between magnetic field strength and RMS voltage output without shielding.
 
 3. **With Shield - Magnetic Field Strength vs RMS**: 
-   ![With Shield - Magnetic Field Strength](./Shieldmak_Magnetic Field Strength B vs RMS.png)
+   ![With Shield - Magnetic Field Strength](./labmaxne/Shieldmak_Magnetic_Field_Strength.png)
    - This graph shows the effect of applying magnetic shielding on the magnetic field strength and RMS voltage.
 
 4. **With Shield - Voltage Response with Distance**: 
