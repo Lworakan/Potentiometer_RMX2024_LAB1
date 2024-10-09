@@ -18,17 +18,17 @@ The experiment setup includes:
 ## Potentiometer Graphical Results
 
 ### 1. Potentiometer PDB18A Graphs
-![Potentiometer PDB18A Graph](./image.png)
+![Potentiometer PDB18A Graph](./labpoten/image.png)
 
 This graph shows the potentiometer response over its rotational travel for different graphs (Graph 1 - Graph 5).
 
 ### 2. Potentiometer PDB18C Graphs
-![Potentiometer PDB18C Graph](./image2.png)
+![Potentiometer PDB18C Graph](./labpoten/image2.png)
 
 This graph demonstrates the voltage response for potentiometer PDB18C across the rotational travel percentages.
 
 ### 3. Bourns Potentiometer Characteristic Curves
-![Bourns Potentiometer Curves](./image3.png)
+![Bourns Potentiometer Curves](./labpoten/image3.png)
 
 These curves show the characteristic voltage responses of B and C series potentiometers over their rotational travel.
 
