@@ -1,4 +1,4 @@
-# Potentiometer_RMX2024_LAB1 - Magnetic Field and Voltage Response Experiment
+# Magnetic Field_RMX2024_LAB1 - Magnetic Field and Voltage Response Experiment
 
 ## Overview
 
@@ -12,10 +12,7 @@ This repository contains the data, results, and analysis of the experiment focus
 
 The experiment setup includes:
 1. **Hall Effect Sensor**: Measures the magnetic field strength.
-2. **Potentiometer**: Adjusts the input signal.
-3. **Magnetic Shields**: To observe the shielding effect on magnetic field strength and its impact on voltage output.
-4. **Webcam rapoo c260**: Captures the setup and measurements for real-time monitoring.
-5. **Simulink and MATLAB**: Used for data logging and analysis of the signals.
+2. **Magnetic Shields**: To observe the shielding effect on magnetic field strength and its impact on voltage output.
 
 ## Objectives
 
