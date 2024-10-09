@@ -26,7 +26,7 @@ The experiment setup includes:
 ## Files Included
 
 1. **No Shield - Voltage Response with Distance**: 
-   ![No Shield - Voltage Response](./No_Shieldmak_VR.png)
+   ![No Shield - Voltage Response](./labmaxne/No_Shieldmak_VR.png)
    - This graph shows the relationship between RMS voltage and distance when no magnetic shielding is applied.
 
 2. **No Shield - Magnetic Field Strength vs RMS**: 
@@ -38,7 +38,7 @@ The experiment setup includes:
    - This graph shows the effect of applying magnetic shielding on the magnetic field strength and RMS voltage.
 
 4. **With Shield - Voltage Response with Distance**: 
-   ![With Shield - Voltage Response](./Shieldmak_VR.png)
+   ![With Shield - Voltage Response](./labmaxne/Shieldmak_VR.png)
    - This graph illustrates the voltage response at various distances with magnetic shielding applied.
 
 ## Conclusion
