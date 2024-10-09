@@ -23,25 +23,35 @@ The experiment setup includes:
 2. Determine how the magnetic field strength correlates to RMS voltage output.
 3. Compare results with and without magnetic shielding.
 
-## Files Included
+## Graphical Results
 
-1. **No Shield - Voltage Response with Distance**: 
-   ![No Shield - Voltage Response](./labmaxne/No_Shieldmak_VR.png)
-   - This graph shows the relationship between RMS voltage and distance when no magnetic shielding is applied.
+### 1. No Shield - Voltage Response with Distance
+![No Shield - Voltage Response](./No_Shieldmak_VR.png)
 
-2. **No Shield - Magnetic Field Strength vs RMS**: 
-   ![No Shield - Magnetic Field Strength](./labmaxne/Noshieldmak_Magnetic_Field_Strength.png)
-   - This graph represents the relationship between magnetic field strength and RMS voltage output without shielding.
+This graph shows the relationship between RMS voltage and distance when no magnetic shielding is applied.
 
-3. **With Shield - Magnetic Field Strength vs RMS**: 
-   ![With Shield - Magnetic Field Strength](./labmaxne/Shieldmak_Magnetic_Field_Strength.png)
-   - This graph shows the effect of applying magnetic shielding on the magnetic field strength and RMS voltage.
+### 2. No Shield - Magnetic Field Strength vs RMS
+![No Shield - Magnetic Field Strength](./Noshieldmak_Magnetic Field Strength B vs RMS.png)
 
-4. **With Shield - Voltage Response with Distance**: 
-   ![With Shield - Voltage Response](./labmaxne/Shieldmak_VR.png)
-   - This graph illustrates the voltage response at various distances with magnetic shielding applied.
+This graph represents the relationship between magnetic field strength and RMS voltage output without shielding.
+
+### 3. With Shield - Magnetic Field Strength vs RMS
+![With Shield - Magnetic Field Strength](./Shieldmak_Magnetic Field Strength B vs RMS.png)
+
+This graph shows the effect of applying magnetic shielding on the magnetic field strength and RMS voltage.
+
+### 4. With Shield - Voltage Response with Distance
+![With Shield - Voltage Response](./Shieldmak_VR.png)
+
+This graph illustrates the voltage response at various distances with magnetic shielding applied.
+
+### 5. Additional Images from the Experiment
+- ![Image 1](./image.png)
+- ![Image 2](./image2.png)
+- ![Image 3](./image3.png)
+
+These images capture the graphical results and device setup during the experiment, showing detailed graphs from potentiometer measurements.
 
 ## Conclusion
 
 The results show a clear relationship between distance, magnetic field strength, and RMS voltage output. Shielding effects are also noticeable, as seen in the comparison between shielded and non-shielded conditions.
-
