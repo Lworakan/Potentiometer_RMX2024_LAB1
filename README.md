@@ -1,4 +1,4 @@
-# Potentiometer_RMX2024_LAB1 - Magnetic Field and Potentiometer Response Experiment
+# Potentiometer_RMX2024_LAB1 - Potentiometer Response Experiment
 
 ## Overview
 
