@@ -1,57 +1,40 @@
-# Potentiometer_RMX2024_LAB1 - Magnetic Field and Voltage Response Experiment
+# Potentiometer_RMX2024_LAB1 - Magnetic Field and Potentiometer Response Experiment
 
 ## Overview
 
-This repository contains the data, results, and analysis of the experiment focused on the behavior and working principles of the Ratiometric Linear Hall Effect Magnetic Sensor. The primary goal of the lab was to:
+This repository contains data, results, and analysis from the lab experiment focused on potentiometer characteristics. The key objectives were:
 
-- Analyze the relationship between magnetic flux density and distance.
-- Study how magnetic field strength affects RMS voltage output.
-- Explore the effects of shielding on the magnetic field.
+- Investigate the potentiometer's voltage response over rotational travel.
 
 ## Experiment Setup
 
 The experiment setup includes:
-1. **Hall Effect Sensor**: Measures the magnetic field strength.
-2. **Potentiometer**: Adjusts the input signal.
-3. **Magnetic Shields**: To observe the shielding effect on magnetic field strength and its impact on voltage output.
-4. **Webcam rapoo c260**: Captures the setup and measurements for real-time monitoring.
-5. **Simulink and MATLAB**: Used for data logging and analysis of the signals.
+2. **Potentiometer**: Adjusts the input signal and measures rotational travel.
 
 ## Objectives
 
-1. Measure the RMS voltage output as a function of distance from the magnet.
-2. Determine how the magnetic field strength correlates to RMS voltage output.
-3. Compare results with and without magnetic shielding.
+3. Analyze potentiometer voltage response over different rotational travels.
 
-## Graphical Results
+## Potentiometer Graphical Results
 
-### 1. No Shield - Voltage Response with Distance
-![No Shield - Voltage Response](./No_Shieldmak_VR.png)
+### 1. Potentiometer PDB18A Graphs
+![Potentiometer PDB18A Graph](./image.png)
 
-This graph shows the relationship between RMS voltage and distance when no magnetic shielding is applied.
+This graph shows the potentiometer response over its rotational travel for different graphs (Graph 1 - Graph 5).
 
-### 2. No Shield - Magnetic Field Strength vs RMS
-![No Shield - Magnetic Field Strength](./Noshieldmak_Magnetic Field Strength B vs RMS.png)
+### 2. Potentiometer PDB18C Graphs
+![Potentiometer PDB18C Graph](./image2.png)
 
-This graph represents the relationship between magnetic field strength and RMS voltage output without shielding.
+This graph demonstrates the voltage response for potentiometer PDB18C across the rotational travel percentages.
 
-### 3. With Shield - Magnetic Field Strength vs RMS
-![With Shield - Magnetic Field Strength](./Shieldmak_Magnetic Field Strength B vs RMS.png)
+### 3. Bourns Potentiometer Characteristic Curves
+![Bourns Potentiometer Curves](./image3.png)
 
-This graph shows the effect of applying magnetic shielding on the magnetic field strength and RMS voltage.
+These curves show the characteristic voltage responses of B and C series potentiometers over their rotational travel.
 
-### 4. With Shield - Voltage Response with Distance
-![With Shield - Voltage Response](./Shieldmak_VR.png)
-
-This graph illustrates the voltage response at various distances with magnetic shielding applied.
-
-### 5. Additional Images from the Experiment
-- ![Image 1](./image.png)
-- ![Image 2](./image2.png)
-- ![Image 3](./image3.png)
-
-These images capture the graphical results and device setup during the experiment, showing detailed graphs from potentiometer measurements.
 
 ## Conclusion
 
-The results show a clear relationship between distance, magnetic field strength, and RMS voltage output. Shielding effects are also noticeable, as seen in the comparison between shielded and non-shielded conditions.
+The results from the potentiometer analysis
+- The potentiometer's voltage response varies based on rotational travel.
+
